@@ -33,11 +33,11 @@ share:
 
 urls:
     - text: About Me
-      url: /about/
+      url: https://github.com/prettypositron/Bioinformatics-Blog/about/
     - text: My Projects
-      url: /projects/
+      url: https://github.com/prettypositron/Bioinformatics-Blog//projects/
     - text: XML Feed
-      url: /feed.xml
+      url: https://github.com/prettypositron/Bioinformatics-Blog//feed.xml
 
 url: "https://prettypositron.github.io"
 baseurl: ""
