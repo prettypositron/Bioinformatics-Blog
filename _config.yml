@@ -25,7 +25,7 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/prettypositron"
+      link: "https://github.com/prettypositron/Bioinformatics-Blog/"
 
 share:
   twitter_username: github.io
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: https://github.com/prettypositron/Bioinformatics-Blog//feed.xml
 
-url: "https://prettypositron.github.io"
+url: "https://github.com/prettypositron/Bioinformatics-Blog/"
 baseurl: ""
 paginate: 20
 per_page: 20
